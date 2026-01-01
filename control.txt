@@ -1,5 +1,5 @@
-{
-  "status": "OFF",
-  "block_minutes": 25,
-  "allow_minutes": 80
-}
+# Tempo em minutos
+BLOQUEAR_MIN=25
+LIBERAR_MIN=80
+RUNTIME=1
+STOP_FILE=stop.txt
