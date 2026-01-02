@@ -1,5 +1,8 @@
-Comando,O que escrever1
-Bloquear Chrome,FECHAR=chrome
-Mandar Alerta,AVISO=Manutencao em Panorama agora.
-Bloquear Web,INTERNET=BLOCK
-Liberar Tudo,INTERNET=ALLOW
+INTERNET=ALLOW
+TEMPO_INTERNET=0
+PORTA_8080=ALLOW
+AVISO=SISTEMA V10 ONLINE
+IP_FIXO=NONE
+GATEWAY=NONE
+FECHAR=NONE
+ACAO=NONE
