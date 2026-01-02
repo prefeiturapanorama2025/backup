@@ -1,6 +1,1 @@
-{
-  "status": "ON",
-  "block_minutes": 25,
-  "allow_minutes": 80,
-  "check_seconds": 10
-}
+status=ON
