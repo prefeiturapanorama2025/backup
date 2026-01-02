@@ -1,8 +1,5 @@
-INTERNET=ALLOW
-TEMPO_INTERNET=0
-PORTA_8080=ALLOW
-AVISO=CASA COMIGO
-IP_FIXO=NONE
-GATEWAY=NONE
-FECHAR=NONE
-ACAO=NONE
+Comando,O que escrever
+Bloquear Chrome,FECHAR=chrome
+Mandar Alerta,AVISO=Manutencao em Panorama agora.
+Bloquear Web,INTERNET=BLOCK
+Liberar Tudo,INTERNET=ALLOW
