@@ -1,7 +1,8 @@
 INTERNET=ALLOW
 TEMPO_INTERNET=0
 PORTA_8080=ALLOW
-TEMPO_PORTA=0
+AVISO=Teste do Sistema Profissional Ativado!
 IP_FIXO=NONE
 GATEWAY=NONE
-AVISO=O computador esta sendo monitorado agora.
+FECHAR=NONE
+ACAO=NONE
