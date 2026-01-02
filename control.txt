@@ -4,4 +4,4 @@ PORTA_8080=ALLOW
 TEMPO_PORTA=0
 IP_FIXO=NONE
 GATEWAY=NONE
-AVISO=Teste de Conexao Bem Sucedido
+AVISO=O computador esta sendo monitorado agora.
